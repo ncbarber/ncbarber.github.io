@@ -1,10 +1,4 @@
-/*
-	Rocket Internet by TEMPLATE STOCK
-    templatestock.co @templatestock
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
 
-/* Typography CSS */
 body
 {
     font-family: 'Lato', sans-serif;
@@ -23,7 +17,7 @@ body
 }
 
 #homeFullScreen {
-    background-image: url('../images/walking.PNG');
+    background-image: url('../images/IMG-2389.PNG');
     overflow: hidden;
 }
 
