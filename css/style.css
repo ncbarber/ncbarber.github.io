@@ -23,7 +23,7 @@ body
 }
 
 #homeFullScreen {
-    background-image: url('../images/header.png');
+    background-image: url('../images/walking.PNG');
     overflow: hidden;
 }
 
@@ -38,7 +38,11 @@ body
 {
     font-size: 60px;
     color: #fff;
-    text-transform: uppercase;
+}
+.header-text h2
+{
+    font-size: 35px;
+    color: #fff;
 }
 
 .header-text .vertical-line
